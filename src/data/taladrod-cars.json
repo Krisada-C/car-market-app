@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "brand": "Honda",
+      "model": "Civic",
+      "price": 300000,
+      "year": 2015,
+      "mileage": 60000
+    },
+    {
+      "id": 2,
+      "brand": "Toyota",
+      "model": "Camry",
+      "price": 500000,
+      "year": 2018,
+      "mileage": 30000
+    }
+    
+  ]
+  
